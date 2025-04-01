@@ -6,7 +6,7 @@
 
 ## 👀 Tailwind CSS UI 연습
 ### 원본)
-https://dribbble.com/shots/25806680-Loopa-Hero
+<img width="850" alt="Image" src="https://github.com/user-attachments/assets/29e9320c-e755-4b17-954f-2a26e2822a62" />
 
 ### 연습)
-![Image](https://github.com/user-attachments/assets/730d6d8f-d7a8-45ed-bb72-4d81c60d340f)
+<img width="850" src="https://github.com/user-attachments/assets/730d6d8f-d7a8-45ed-bb72-4d81c60d340f"/>
