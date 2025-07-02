@@ -1,6 +1,7 @@
 import {useState} from 'react';
+import TodoList from './TodoList2';
 
-function TodoList(){
+function TodoList2(){
     const [todos,setTodos] = useState([]);
     const [temp,setTemp] = useState("");
 
@@ -54,4 +55,4 @@ function TodoList(){
         </div>
     )
 }
-export default TodoList;
+export default TodoList2;
