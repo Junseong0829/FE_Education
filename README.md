@@ -2,16 +2,23 @@
 INFOTEAM에서 열심히 구른 결과물의 집합소입니다 🔥
 
 ## 📌 Todo List
-<img width="850" alt="Image" src="https://github.com/user-attachments/assets/46b37cd4-d3b5-4ab3-a488-22396ef337f1" />
+<div align="center">
+  <img width="850" alt="Image" src="https://github.com/user-attachments/assets/46b37cd4-d3b5-4ab3-a488-22396ef337f1" />
+</div>
 
 ## 🌙 Todo List v2
->**기존 버전에서 여백 및 맞춤 수정, 다크 모드 변경, 완료 버튼을 누르면 완료 전/후로 모두 돌아갈 수 있게 변경**
-<img width="621" alt="image" src="https://github.com/user-attachments/assets/ca4faef0-6329-4413-a30b-55414edc83fb" />
-
+>**기존 버전에서 여백 및 맞춤 수정, 다크 모드 변경, 완료 버튼을 누르면 완료 전/후로 모두 돌아갈 수 있게 변경하였습니다.**
+<div align="center">
+  <img width="621" alt="image" src="https://github.com/user-attachments/assets/ca4faef0-6329-4413-a30b-55414edc83fb" />
+</div>
 
 ## 👀 Tailwind CSS UI 연습
 ### 원본)
-<img width="850" alt="Image" src="https://github.com/user-attachments/assets/29e9320c-e755-4b17-954f-2a26e2822a62" />
+<div align="center">
+  <img width="850" alt="Image" src="https://github.com/user-attachments/assets/29e9320c-e755-4b17-954f-2a26e2822a62" />
+</div>
 
 ### 연습)
-<img width="850" src="https://github.com/user-attachments/assets/730d6d8f-d7a8-45ed-bb72-4d81c60d340f"/>
+<div align="center">
+  <img width="850" src="https://github.com/user-attachments/assets/730d6d8f-d7a8-45ed-bb72-4d81c60d340f"/>
+</div>
