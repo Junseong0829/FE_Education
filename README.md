@@ -13,7 +13,7 @@ INFOTEAM에서 열심히 구른 결과물의 집합소입니다 🔥
 </div>
 
 ## 🧮 Calculator v2
->**기존 버전에서 테마 수정, 덧셈/뺄셈 이외에 곱셈/나눗셈 추가, 그리고 이로 인한 코드 복잡성을 switch 구문을 통해 리팩토링 진행**
+>**기존 버전에서 테마 수정, 덧셈/뺄셈 이외에 곱셈/나눗셈 추가, 이로 인한 코드 복잡성을 switch 구문을 통해 리팩토링 진행**
 <div align="center">
   <img width="583" alt="image" src="https://github.com/user-attachments/assets/720aa8b7-4985-44fd-8db2-0ce63298a8c6" />
 </div>
