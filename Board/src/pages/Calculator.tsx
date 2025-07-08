@@ -1,12 +1,12 @@
 import React, {useState} from 'react';
 
 function Calculator(){
-    const [num1, setNum1] = useState('');
-    const [num2, setNum2] = useState('');
-    const [result, setResult] = useState(null);
+    const [num1, setNum1] = useState<string>('');
+    const [num2, setNum2] = useState<string>('');
+    const [result, setResult] = useState<number | null>(null);
 
     const Add = () => {
-        if(isNaN(num1) || isNaN(num2)){
+        if(isNaN(Number(num1)) || isNaN(Number(num2))){
             alert("💢숫자만 입력해주세요!!");
         }
         else{
@@ -15,7 +15,7 @@ function Calculator(){
     }
 
     const Minus = () => {
-        if(isNaN(num1) || isNaN(num2)){
+        if(isNaN(Number(num1)) || isNaN(Number(num2))){
             alert("💢숫자만 입력해주세요!!");
         }
         else{
