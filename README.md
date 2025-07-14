@@ -18,6 +18,13 @@ INFOTEAM에서 열심히 구른 결과물의 집합소입니다 🔥
   <img width="583" alt="image" src="https://github.com/user-attachments/assets/720aa8b7-4985-44fd-8db2-0ce63298a8c6" />
 </div>
 
+## 🛒 Shopping Cart v2
+>**기존 버전에서 테마 개선, uuid 사용해서 개별적으로 상품 관리할 수 있게 개선**
+<div align="center">
+  <img width="540" height="582" alt="image" src="https://github.com/user-attachments/assets/47e4b7cc-e5ea-4270-9866-2a1922ed248d" />
+  <img width="540" height="691" alt="image" src="https://github.com/user-attachments/assets/6e3d2dae-4766-4876-9af1-dcea269cd681" />
+</div>
+
 ## 👀 Tailwind CSS UI 연습
 ### 원본)
 <div align="center">
