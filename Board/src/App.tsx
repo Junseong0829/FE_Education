@@ -4,6 +4,7 @@ import './App.css'
 import TodoList from "./pages/TodoList.jsx";
 import TodoList2 from "./pages/TodoList2.jsx";
 import Calculator from "./pages/Calculator";
+import Calculator2 from './pages/Calculator2';
 import Temp1 from "./pages/Temp1";
 import {CartProvider} from "./pages/CartContext";
 import ProductList from './pages/ProductList';
@@ -13,7 +14,10 @@ function App(){
   return(
     <>
     <CartProvider>
-      <TodoList2 />
+      <div>
+        <ProductList />
+        <Cart />
+      </div>
     </CartProvider>
     </>
   )
