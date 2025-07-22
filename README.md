@@ -25,6 +25,11 @@ INFOTEAM에서 열심히 노력한 결과물의 집합소입니다 🔥
   <img width="540" height="691" alt="image" src="https://github.com/user-attachments/assets/6e3d2dae-4766-4876-9af1-dcea269cd681" />
 </div>
 
+## 🐱 PokemonAPI 심화연습 Day 1
+<div align="center">
+  <img width="239" height="243" alt="image" src="https://github.com/user-attachments/assets/0600624d-0b4f-4e08-a8f3-54103c577a54" />
+</div>
+
 ## 👀 Tailwind CSS UI 연습
 ### 원본)
 <div align="center">
