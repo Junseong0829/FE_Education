@@ -1,5 +1,5 @@
 ## 📝 소개
-INFOTEAM에서 열심히 노력한 결과물의 집합소입니다 🔥
+INFOTEAM에서 열심히 노력한 결과물입니다 🔥
 
 ## 📌 Todo List
 <div align="center">
